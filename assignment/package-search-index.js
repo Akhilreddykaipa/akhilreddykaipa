@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.bankProject"},{"l":"com.bankProject.controller"},{"l":"com.bankProject.dao"},{"l":"com.bankProject.dao.repository"},{"l":"com.bankProject.dao.serviceImpl"},{"l":"com.bankProject.model"}];updateSearchResults();
