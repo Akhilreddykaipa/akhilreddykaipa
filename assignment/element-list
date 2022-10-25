@@ -1,0 +1,6 @@
+com.bankProject
+com.bankProject.controller
+com.bankProject.dao
+com.bankProject.dao.repository
+com.bankProject.dao.serviceImpl
+com.bankProject.model
